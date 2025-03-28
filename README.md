@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Laravel](https://github.com/Huzaifag/Notes_app)
 
-- 🌱 I’m currently learning **Integrating TailwindCSS + React js in Laravel projects for seamless styling with Blade and Livewire components**
+- 🌱 I’m currently working as a Laravel & Vue.js Developer at **Bitlogicx**
 
 - 👯 I’m looking to collaborate on **Building RESTful APIs with Laravel and integrating them with modern JavaScript frameworks like React**
 
